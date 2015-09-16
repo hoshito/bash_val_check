@@ -1,0 +1,2 @@
+B_VAL=222
+b $C_VAL c
